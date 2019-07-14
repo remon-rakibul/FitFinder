@@ -1,0 +1,245 @@
+﻿Curriculum Vitae of 							
+Shariful Hasan Khan, 01720257912                                                              
+
+
+• I would describe myself as well presented, hard working person who thrives as the chance of learning new skills. I have a mature outlook, excellent communication skills and enjoy working with the public. I always like to get the task I have been given done a professional and efficient manner and I have proved these skills through my studies at educational and work placements. I like to think I am someone who works well alongside others and easy to get along with I am a sociable person. My work placements have helped me build my confidence as a person and hopefully will carry on so. I am also willing to take on any training necessary to enable me to carry out my work well.
+
+
+
+• Able to listen and act on providing instruction
+• Good communication skills
+• Good time keeper
+• Flexible approach
+• Mature Attitude and good work ethics
+• Willing to learn and take on new tasks
+• Excellent team player
+• Ability to multitask
+• Flexible in working hour
+
+Present Position:          :	             Manager, Information Technology
+Present Company             :	              Li & Fung (Bangladesh )
+Buying and Sourcing Company worldwide
+URL : www.lifung.com. 
+
+Job Responsibilities:
+• Manage the and supervise all the technological issues around the LF BGD office and coordinate with the country IT staffs and Team leader for trouble shooting.
+• Manage and administrating the VMware where DHCP, Print Server, TEM server, AD are integrated where there are lot of cost is saving, Video streaming and meeting room Display server
+• Maintain,
+• Database and Data backup using the Tape Drive
+• On the spot 24/7 support service on site and off site support along with the ITS helpdesk ticket issue and task completion
+• Have to active in leading achieve the 100 successful project in any Technical and Non-technical projects
+• Monthly reporting about the team activities to the HUB IT head about the team members and team achievement
+• Ensure problems, incidents, issues and risks are logged and managed effectively by the support team
+• Ensure and appropriate level of support for related applications - including liaising as necessary with any internal or third party suppliers.
+• Have to guide the team and motivating all the team members so that they can do their work conveniently
+• One of the active member in the team implementing and encouraging to manage time in professional life.
+• Learning champion about the time management and other Technical training
+
+
+
+1) Managing the any types of IT Data Center project
+2) Planning and designing the IT Infrastructures
+3) Rolling as IT Team as IT Head which has 8 members
+4) ITS Helpdesk supporting 
+5) ITS Training management
+6) ERP (XTS5) training to the end-users
+7) Microsoft exchange server,WSUS,SEP server Setup
+8) VMware server setup
+9) Core switching configuration
+10) Wireless network setup, support and implementation
+11) IT Inventory management
+12) Data Center security alarm system management
+13) Trouble shooting of Server related problems
+14) Data Center Disaster Recovery
+15) CCTV designing and implementation
+16) Vendor managements
+17) PABX management
+18) Managing conferencing by Video, Telephone and IP Phone
+19) Configuring Video Conference device
+20) Vidyo setup and provide communication from end users to senior management internationally. 
+21) Providing IT facilities to the new joiner maintaining communication with the HR
+22) Stream wise user support 
+23) Information technology Trainer
+24) Team Coordination 
+25) BCP (Business Continuation Planning)
+
+Extra Curriculum :		1) Li and Fung Premier league Committee member
+				2) Professional Skill Delivery Certified
+				3) Cultural Program Member
+				4) Green Team Member
+				5) Member of OSG managers
+				6) LPL cricket team member
+				7) Member of BCP (Business Continuation Planning) Committee
+				8) Associate Member of IEB
+				9) Associate Member of BCS
+
+Previous Experience :
+
+ Position          :	             SAP BASIS Administrator & PP Moderator
+
+Company             :	              Actor Sporting Limited (Headwear Division)
+(100% Export oriented foreign company) 
+Plot # 33-35, Dhaka Export Processing Zone, Savar, Dhaka, Bangladesh. 
+
+Other Units of GOLDEN CROWN HEADWEAR'S FACTORY (Hong Kong) Ltd:--
+	
+South China Bleaching & Dying Factory Ltd., Dhaka Export Processing Zones, Bangladesh.
+Product: 100% Cotton Twill Fabric.(Textile)
+
+Goldtex Garments Limited, Dhaka Export Processing Zones, Bangladesh.
+Product: Men's and Boy Trousers ,Shorts ,Shirts & Jacket
+
+Guang Zhou Bang Hu Zhen Golden Crown Head Wears Factory, People Republic of China.
+Product: All Kinds of Blank, Wash and Embroidery Hats and Caps
+
+Fashion Accessories Philippines Inc, Metro Manila, Philippines.
+Product: Hand Gloves & Scarf
+
+Goldtex Ltd, Dhaka Export Processing Zones, Bangladesh.
+Product: Weaving and Yarn Dying
+
+Job Responsibilities:	From January 2006 to December 2009
+
+• Maintaining SQL server and observing the Database by 24hours basis
+• Checking the JAVA and JCE Environment
+• Updating the Already done by myself the ERP system setup
+o Central Installation
+o Database installation
+• Creating OSS message from the SAP Market
+•  Already setup the Kernel to the SAP Development and Solution Server, Observing the transport System, installation of ECC ERP Central Component 6.0, and updated support packages  
+•   Keeping update news for the Support package by the Early watch alert, Service pack for the Windows Server 2003
+•  Create the Users for the DEV and SOL server, copying the client from one to another like 000 to 100
+• observing the support package by Using the SPAM T-Code and Data Storage capacity of the server
+•   Installing the License by  getting the licensing key through SAP Market, Language pack to both server SOL and DEV, Maintaining the DFS server
+•     Observing the  Already installed the Conflict Resolution Transport(CRT)
+•   Checking the SAP router information in regular basis
+• Observation of Patch level update
+• Trouble shooting of each end user problem by daily basis
+
+Production Planning (PP) Responsibilities:
+• Discussing the production process with the production people
+• Searching the appropriate way to do the process in convenient way
+• Approaching to the production manager for the best process
+• Designing the process using the VISIO 2005
+• Offering the production process in my own ways and to approach the production department how they want to do the process
+• Creating the master data, and Material BOM, Maintaining Deviated quantities BOM items and planned independent requirements ,AFS MRP List generation, Maintaining SKU data, Creating the Packing list
+• Changing the work Center, BOM, and Routing, Implementing the whole process and give the approval, post the process through the SAP market, Assigning the SAP T-Code from the SAP GUI.
+Other Responsibilities regarding the SAP:
+• Some parts of Material Management(MM) and Sales and Distribution(SD) Module
+• Giving training to the end users in all module
+• Maintain communication within consultants, Steering committee and SAP market
+• Checking the Daily production report and development of the production and supervising the end users
+• Modification Routing of each production line
+    Arranging meeting regarding all subjects related to the SAP
+    Other Responsibilities:
+
+• All above to “Goldtex Garments Ltd”, other unit of the Group, except Cost Analysis and Tax Calculation for Staff 
+
+Qualification:
+
+B.Sc in Computer Science and Engineering
+
+TRAINING		:	1. JDK 1.3 (Systech Computer, Dhanmondi) 
+       2. (Mission System Consultancy), Hong Kong				3. SAP (Basis, PP and MM), Kowloon, Hong Kong
+
+COMPUTER SKILLS	:
+
+General			:     SAP, DBA,SQL Server, Foxpro, VB, Administrating Windows Server 2003
+Other Package	             : 	1. Hexagon (HSBC), E-Commerce (Standard Chartered Bank)
+				2. MSC (Integrated soft ware) and PMIS Project Manager
+       3. SAP, Designing and planning of LAN,WAN
+4. All types of Hardware trouble shooting,CCTV, Support software    packages MS Office, WinPACCS, SAP, Symantec Antivirus)
+       5. Procurement
+Communication		: 	E-mail, Intranet & Internet Communication
+
+Job Experience & Record (8 Years 3 Months+):
+
+Jan 2006 to December 2009            :     SAP BASIS Administrator and PP moderator, Actor Sporting Limited 
+
+1st November  2004 to  Dec 2005     :    System Engineer & IT In-charge, (Same Organization)
+
+1st Oct2002 to 31st Oct 2004             :    Graphics Designer and Assistant programmer, (Same Organization)
+
+21st Sep 2001 to 30th Sep 2002        :     Network Administrator (Same Organization)
+
+12th Jan2000 to 13th Jan 2001         :    System Support Engineer, Spark Systems Limited
+
+Responsibilities Carried Out---------------------------------------------------------------------------------------------
+
+SAP BASIS Administrator and PP moderator (Jan 2006 to till date)
+               Mentioned at the beginning
+
+System Engineer & IT In-charge (1st November 2004 to December 2005)
+
+• Analysis, designing and implementation of Personal Information Management System(PMIS) software. Organizing the data. Collecting the data and updating the information by daily and monthly basis. Installation and observation of the software including the hardware.
+• Installing the CCTV and maintain the hardware in daily basis i have to observe the canopy system which is installed in the south china bleaching and dyeing factory.
+• As a multinational company actor sporting limited has to maintain the contact between its factories which are situated within the export processing zone which are 
+• South china bleaching and dyeing factory limited
+Goldtex limited offices. as a result it has to maintain global communication system by  VSAT and this is maintained by me. I responsible for VSAT configuration with the support of the link vendor, Observing the link everyday basis, Maintain the router, Designing the hole LAN/wan system with the VSAT
+
+Graphics Designer and  Assistant programmer(1st October2002 to 31st October 2004)
+
+o There some graphical work for the designing of the cap and this type of   designing are done by 
+A)  adobe Photoshop cs2 ,	   b) Adobe illustrator 10 
+• Have done two projects of the salary pay sleep printing in local language and another one is printing the pay sleep in English using the Visual Basic 6 and MS Access
+• Purchasing the accessories and assembling the computers, trouble shooting all types of hardware related problems. Trouble shooting the printer hardware and purchasing the printer by the analytical way. searching the internet which printer is preferable for the users in the actor sporting limited.
+• Installing the CCTV and maintain the hardware in daily basis i have to observe the canopy system which is installed in the south china bleaching and dyeing factory.
+
+Network Administrator(21st September 2001 to 30th September 2002):
+
+• Installing PDC server with windows 2003 and 50 workstations. backup the data in  the server as d and then data must have to back up to the tape drive. The work stations are running on windows 98/xp/windows2000 and observing the  LAN information and maintain strict security.
+• Trouble shooting the ups and assembling. Setting up optical fiber LAN, all the user sight problem with the training to the users how to solve the problems by themselves.
+• Installing an ERP software named MSC (Mission System Consultancy) which include the production, accounts, inventory and commercial documents, 
+• Installing a computer with graphical software’s, installing all kind software the clients need, supporting a mail server by phone which is Linux based.  Connecting the workstation to internet through the windows 2003 server. 
+• Supporting the users of web mail of golden crown which address is http:\\mail2.gcglobal.com and. maintaining the link between Hong Kong and actor sporting limited. TCP/IP setup, proxy setup, SMTP setup
+i. Managing and maintaining the liaison with vendors related with information technology fields. Also supporting the users by internet and troubleshooting  network problem. 
+ii. Keeping update of the latest software hexagon which were provided by the HSBC bank, e-banking provided by the standard chartered bank, giving training to the user about the label printing software named benchmark program which were provided by wall mart apparels. the label design and printing training are provided by to the label operator.
+
+System Support Engineer (12th January 2000 to 13th January 2001)
+Spark Systems Limited
+
+• Administrating the Windows NT4 server and administrating the network
+• supporting the clients with Internet software and supporting the clients by phone
+• installing Internet software, installing modem, all types of dial up Internet related troubleshooting. Specially communicate with the native people and the foreigners. 
+• Operating the UNIX red hat server for creating users, deleting users and printing the monthly bill of users. Observing the server report. Maintaining the modem which and also the main telephone line.
+
+PERSONAL INFORMATION:
+
+Father's Name 		:	Late. A.K.M.Elias Khan
+Mother’s Name 		:    	Mashuda Akhter
+Date of Birth 		:	01.08.1976
+Marital Status 		:	Married
+Wife’s Name 		: 	Radiya Sultana, Asst. Officer, NCC Bank, Uttara Branch
+Permanent Address	:	Vill :Horripur P.O: Nilokhiya, P.S : Raipura, Dist : Narsingdi
+Present Address 	:  	House # 18(1st Floor), Road # 18, Sector #3
+       Uttara, Dhaka-1230, Bangladesh
+Phone 			:	01720257912 (Mobile),  
+       880-2-8960633
+Fax			:	8931036(Office)
+E-mail			: 	go2sharif@hotmail.com 
+
+
+EDUCATIONAL BACKGROUND:
+
+QualificationInstitutePassing YearSubjectsB.Sc in CSEAhsanullah University of Science and Technology, Dhaka 2000Computer Science and engineeringH.S.CTejgaon College,Dhaka1994ScienceS.S.CSyed joynal Abedin High School,Faridpur1992Science
+References		:
+	
+Talukder Zaid Hossain
+Senior Manager – 
+Human Resources 
+880-2-8960633
+01755536112, '01713080304
+Barrister Shafique Ahmed
+Minister, Laws and Parliamentary Affairs
+Indira Road,Dhaka
+
+
+
+………………………………….
+(Signature)
+
+
+
+1
+
+

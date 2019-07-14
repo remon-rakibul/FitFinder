@@ -1,0 +1,160 @@
+﻿                          
+Address: House no -9(2rd floor), 
+Road-20, Nikunja-2, Dhaka-1229 
+Tel:  +88028900182, Mobile:+8801730091674 
+Mobile:+8801768141516 
+ E-mail: rakibs@msn.com
+rakibs@gmail.com
+DOB: 19th September 1983,  Nationality: Bangladeshi
+Md. Rakibul Islam                     
+     SYSTEM  MANAGER
+	Server Setup, Plan, Configure, Maintenance & Monitor● Network Plan, Configure, Monitor & Maintenance. 
+PROFILE:
+
+Seeking a challenging position as IT Professional with a growth-oriented organization where my analytical skills and relevant experience will be utilized to its full potential.
+
+CAREER EXPERIENCE
+1 DEC 2005 – Present SQUARE  InformatiX Ltd
+I have progressed from VSAT Engineer to Network Engineer to an Asst. System Administrator to System Administrator before being promoted to my current role as System Manager
+
+I am currently doing on System Infrastructure development and also manage a large number (6,000 users) of Domain users in Corporate (SQUARE GROUP). 
+System Manager (JAN 14 – Present)
+• Supervision and control the infrastructure security operations by identifying security threats, implementing and hardening security vulnerabilities to ensure the infrastructure is secured to support the business operations.
+• Managing IT service management process (Availability Management, Backup, Service Transition Management and Knowledge Management) across the organization to provide real-time alerting leading to greater uptime and enhanced security.
+• Implementing policies and procedures for Server, Storage, network equipment monitoring and nationwide collocated datacenter and Disaster recovery sites in Physical and Virtual environment.
+• Planned, configured and managing nationwide collocated datacenter and Disaster recovery sites for servers and SAN and NAS storage in physical and virtual environment.
+• Monitoring and Managing High available/cluster application server also storage replication for smooth operation to avoid operational downtime. 
+• Maintain and administer the infrastructure security operations by identifying security threats, implementing and hardening security vulnerabilities to ensure the infrastructure is secured to support the business operations.
+• Perform all tasks necessary to fulfill service level agreements regarding Exchange-based security; including those involving user accounts, shared folders/calendars, mailing lists, and Outlook Web Access. 
+• Conduct or assist in General IT Controls review (Security, Change Management, and Operations) at the Application, Database, Operating System, and Network level and maintain Policies, procedures, architecture diagrams, and tools needed to maximize smooth operation 
+• Benchmark, analyze report on, and make recommendations for the improvement and growth of the IT infrastructure and IT systems. 
+• Assisted in the Network and hardware installation and maintenance of workstations, servers, networking equipment’s and other supporting hardware. 
+• Coordinated and monitored troubleshooting to isolate and diagnose common system problems: document system events to ensure continuous functioning. Recommend course of action and implement as approved. 
+• Maintain Project and Support Agreements with vendors.
+• Team Management.
+
+System Administrator  (JAN 12 – JAN 14)
+• Microsoft Exchange Server Migration (2000 to 2003) and (2003 to 2010) with DAG facility and Network Load Balancing.
+• Monitors and optimizes system performance and initiates recoveries after system failures
+• To implement data back-up and other systems 
+• Work on CISCO,IBM and DELL (Blade, Rack and Tower Based) Servers
+• Work on Dell’s EqualLogic (PS 4000XV and PS 4000E) Storage for Exchange Servers and for DFS, Dell’s PowerVault (MD 3220i) for HPLC project and IBM Storage (DS5100) for SAP implementation.
+• Configure Dell Power Connect 6424 iSCSI switch
+• Configure IBM SAN Switch 2498-B40
+• Work on Bluecoat ProxySG 600 for Secure Proxy Server
+• Manage Barracuda Spam and Firewall device for Mail server
+• Work on  McAfee Email & Web Security Appliance
+• Design and document SOPs (Standard Operating Procedures) for system administration activities
+ Virtualization:
+1. Windows Exchange Server 2010 Virtualization on VMware ESX and Microsoft Hyper-V
+2. SAP implementation on VMware ESX  4.1
+3. R.N.D on VMware ESX 5.1
+
+Asst. System Administrator  (JAN 10 –  JAN12)
+ Windows Platform:
+1 Distributions  :  Server 2000, Server 2003, Server 2008 R2 64 Bit, Server 2012
+2 Mail Server : Exchange Server 2000, Exchange Server 2003, Exchange Server 2010, Exchange Server 2013
+3 Perform plan, installation and administration, maintenance, tuning and troubleshooting of Windows System.
+4 Manage mail Related any problem
+5 Configure different types of Windows Server like DNS,WSUS,WDS, DHCP, FTP, RAS, Web, McAfee Antivirus and others Windows Server
+6 Perform installation, administration, maintenance, tuning and troubleshooting of windows system
+7 System Data Backup & recovery Solution with Symantec Backup Exec 2012 & Acronics backup.
+8 Disaster Recovery planning and proactively testing
+9 Configure failover clustering with SQL Server
+ Linux Platform:
+1. Distributions: Red Hat Linux 9.0, Red Hat Enterprise Linux (4 and 5) 
+2. Mail Server (MTA) : Sendmail, Postfix , Exim with Virus and Spam Management
+3. (IMAP + POP3): Cyrus, Dovecot.
+4. Proxy Server: Squid
+Network Engineer  (JAN07– JAN 10)
+1 Router Configure in (Cisco 1700,2600,3800,3925,2911) for static and dynamic routing
+2 Switch Configure in (Cisco 4900M, 3750, 3560G, 2960, 2950) for VLAN Segmentation and Bandwidth Management.
+3 Configure Polycom and Cisco Telepresence Video Conferencing System
+4 Configure Cisco IPS-4240
+5 Configure Mikro Tik Router
+6 Configure firewall Cisco (5520,5510) for IP based Security, VPN(PPTP –Dial up VPN)
+7 Configure Management and Monitoring Cisco (CSM and CWLMS)
+VSAT Engineer  (DEC05 – JAN 07)
+1. Installation and commissioning of Earth station antenna (both C and Ku band). 
+2. Site survey for possible VSAT location. 
+3. Coordination with different earth station for maintenance and establishment of new VSAT circuit. 
+4. Generate report for daily activity. 
+5. Testing of equipment for the new and existing VSAT sites. 
+6. Conducts Radio Frequency Interference (RFI) testing. 
+7. Technical support to VSAT installation, commissioning as well as troubleshooting to our client. 
+8. Fault diagnostic and on-site troubleshooting.
+
+
+
+
+
+01 JUN  2005 – 25 NOV 2005Technical  Executive--NAVANA COMPUTERSMajor Job Responsibilities & Duties:
+
+1. PC configure and  troubleshooting
+2. Network monitor, maintenance and troubleshooting
+3. Configure ADSL and SHDSL modem and Configure different vendors Wireless Routers.
+
+ACADEMIC PROFILE
+1 2007-2010- Independent University, Bangladesh (IUB)
+MSc. in Telecommunication Engineering-CGPA 2.75/4.0
+
+2 2001-2005- American International University In Bangladesh(AIUB)
+Bachelor of Science in Computer Engineering -CGPA 3.04/4.0.
+
+3 1998-2000- B.A.F Shaheen College
+Higher Secondary Certificate (Science) 2nd division.
+4 1991-1998- B.A.F Shaheen College
+Secondary School Certificate (Science) 1st division.
+
+Members: 
+1. PMI Members   
+2. PMI Bangladesh Chapter 
+
+Advanced Training and Tour  in Other Countries: 
+1. Training on Dell PowerEdge (Server) Configuration and Troubleshooting in Penang, Malaysia.
+2. Training on Dell EqualLogic PS Series (Storage) Advanced Features and Management in Penang, Malaysia.
+3. Different Factory Visit in Zhuangzu China for Laptop Project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional References (Not relative):
+1. Referee Type: Present supervisor
+Name:         Ahmed U Bhuyian
+Designation:  General Manager
+Address: SQUARE Centre 
+	 48, Mohakhali C/A 
+	 Dhaka 1212, Bangladesh
+Phone:  +88-02-9859007
+Email: ahmed@squaregroup.com
+
+2. Referee Type: Academic supervisor
+Name:         Feroz Ahmed
+Designation:   Associate Professor
+Address:   School of Engineering & Computer Science
+                 Independent University, Bangladesh 
+Phone:     +88-02-9859007
+Email:     fahmed@secs.iub.edu.bd
+
+3. Referee Type: Past supervisor
+Name:         Foiz Mohammad Shipon
+Designation:  Senior Assistant Vice President 
+Address:   Premier Bank Ltd
+Ground and 3rd Floor
+      Iqbal Center
+      42, Kemal Ataturk Avenue
+      Banani, Dhaka – 1213               
+Mobile No: +8801713257439  
+Email:    shipon97@gmail.com

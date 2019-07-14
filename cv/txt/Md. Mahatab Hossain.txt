@@ -1,0 +1,229 @@
+﻿ 
+Md. Mahatab Hossain 
+251/1/C, Alimun Garden, Senpara Parbata, 
+Mirpur 10, Dhaka                                                         
+E-mail: rashal1214@gmail.com 
+	 	mahatab@rahimafrooz.com 
+Phone: +8801911245083 
+ 	 
+                                                                    
+Objective: 
+ 
+To become a competent professional and build a prosperous career by applying creative skills in an organization which will provide a learning and rewarding environment and potential for career development 
+ 
+Key Skills  
+ 
+Technical Skills:  
+ 
+Messaging (Email) Application: Microsoft Exchange Server 2003/2007/2010/2013, IBM Lotus 
+Domino, Directory Service and other service: Microsoft Active Directory on Windows 2003/2008, Group Policy, DNS, DHCP, WSUS, DFS, Remote and Routing, RAS, IIS, FTP, Print Server, Domain and Trust, Sites and Services etc. 
+ 
+Server (OS) Operating Systems: Windows server 2008 Enterprise R2, Windows Server 2003, IBM OS 400.  
+ 
+Antivirus/Data Security/Internet Security/IT ServiceDesk Apps: MacAfee DLP (Data Loss Prevention) for information Security, Microsoft ISA 2006 Sever, MacAfee Antivirus, Kaspersky Antivirus, ManageEngine IT ServiceDesk Application. 
+ 
+Server Hardware: HP, IBM I series, Dell, Sun. RAID Level 0, 1, 5, 10, and 50 for Data Availability. 
+ 
+Data Backup Systems: Microsoft DPM (Data Protection Manager), HP Data Protector, Symantec Backup Exec, Windows default backup.   
+ 
+Virtualization Technology: VMware, Microsoft Hyper-V 
+ 
+Network Technologies: Cisco Routing and Switching, D-Link, CTC-Union Multiplexer. 
+ 
+Business Application & ERP:  SAP ERP, Qlikview Business Intelligence (BI), Inventory Management Application, Warranty Management Application, HR MIS Application, Warehouse Management Application.  
+ 
+ 
+Other Technical Skills: Wincor POS Systems (Both Application and Hardware), SAP BASIS,  Microsoft Office, Network Design, System Design. 
+ 
+ 
+ 
+Other Skills:  
+ 
+IT ServiceDesk: Expert in IT ServiceDesk implementation and analysis.  
+Problem solving: Resolves in-depth issues in a methodical manner independently and with team members, internal and external business partners to find appropriate resolutions, efficiencies and high level of quality. 
+ 
+Team Player: Enjoys sharing knowledge and encouraging development of others to achieve specific team goals.  
+ 
+Planning and organizing: Refined planning and organizational skills that balance work, team support and ad-hoc responsibilities in a timely and professional manner. 
+ 
+Negotiation Skills: I have very good negotiation skills with external and internal business partner. 
+ 
+Project management: I have a practical experience about project Management. 
+ 
+ 
+Vendor’s Certification 
+ 
+• MCTS-DBA (Microsoft Certified Technology Specialist on SQL Server 2008 ) ID – 3775045 
+• MCSA (Microsoft Certified System Administrator) ID – 3775045                        
+ 
+70-290 Exam: Managing and Maintaining a Microsoft Windows Server 2003 Environment. 
+ 
+70-291 Exam: Implementing, Managing, and Maintaining a Microsoft Windows Server 2003 Network Infrastructure. 
+ 
+70-2170 Exam: Managing and maintaining windows XP. 
+ 
+• MCSA-Messaging  (Microsoft Certified System Administrator Messaging) ID – 3775045 
+ 
+70-284 Exam: Implementing and Managing Microsoft Exchange Server 2003. 
+ 
+ 
+ 
+ 
+ 
+ 
+Courses and Training 
+ 
+• Training on QLIKVIEW Business Intelligence (BI) from 18/08/2013 to 22/08/2013. 
+  
+• Training on IBM Lotus Domino Administration from 16/6/2013 to 20/06/2013. 
+ 
+• Training on Macafee DLP (Data Loss Prevention). 
+ 
+• 15 Days Training on IBM-I Administration, Fine tuning. 
+ 
+• Training on SAP BASIS (Ongoing) 
+ 
+• Training on Call Center Solution (Avaya) 
+ 
+• Two days Training on “Negotiation Skills” 
+ 
+• Two days Training on Certified Auditor for ISO 9001:2008 (Bureau Veritas) 
+ 
+• Successfully Completed Cisco Certified Network Associate (CCNA) Course. 
+ 
+• Special training on Optical fiber termination. 
+ 
+• Training on CISCO routing and Switching presented by Datacraft (INDIA). 
+ 
+• Training on CISCO Advanced Routing and Switching presented by Datacraft (INDIA). 
+ 
+• Training on Microsoft Unified Messaging presented by Microsoft Singapore.  
+ 
+• Seven Days Training on IBM I-Series Administration presented by IBM India.  
+ 
+ 
+Working Experiences: 
+ 
+Total Job experience till 18th February, 2013 is about 8 years. 
+ 
+• Now I am working in Rahimafrooz (Bangladesh) Ltd. As “Manager Systems” from 1st march 2008 to Continue. 
+ 
+• Three year’s working Experience in Spectrum Engineering Consortium Ltd. as a "Senior Network & System Engineer". 
+ 
+• Six Month teaching experience in National Information Technology under National University and Bangladesh Technical Education Board. 
+ 
+• I have successfully completed internship of IT Division in the well reputed Islami Bank Bangladesh Limited. 
+ 
+ 
+ 
+Present Job responsibilities in Rahimafrooz (Bangladesh) Ltd. 
+ 
+• Implementation configuration and Troubleshooting Exchange Server 2007 as our group Mail Server. Implementations Configuration and Troubleshooting Rahimafrooz Domain infrastructure including Primary Domain Controller (PDC), Additional Domain Controller (ADC), Active Directory, DNS, DHCP, Domain Trust relationship, Active Directory Sites and Services, DFS, Group Policy, RAS, IIS, File Server, Print Server on Windows.  
+• Administering Monitoring Antivirus security systems and DLP (Data Loss Prevention) Systems. 
+• Some responsibility to SAP BASIS Administration.  
+ 
+• Active project core team member IBM I Series, SAP BASIS and Wincor POS System.  
+ 
+• Administering Windows Server 2008, Windows Server 2003 and NT server platform. Administering the Virtualization application.  
+ 
+• Administering Microsoft DPM 2010 (System Center), HP Data Protector and Symantec Backup Exec. Administering SUN server (X4200) and Sun Storage (J4400).  
+ 
+• Implementations Configuration and Troubleshooting Cisco Router and Switches. Implementations Configuration and Troubleshooting ISA Server 2006 as our Internet Security and VPN server. 
+ 
+• Planning, Documenting Network infrastructure, Ensure Data Security throughout the Group. 
+ 
+• Facilitate Training program to end user about MS outlook 2003/2007, Domain Structure and Shared File. 
+ 
+• Established IT policies and guidelines for throughout the RAHIMAFROOZ Group. 
+ 
+• Prepare IT Budget, IT equipment procurement and negotiate with the vendor. 
+ 
+• IT Project management. 
+ 
+ 
+Job Responsibilities was in Spectrum Engineering Consortium Ltd. 
+ 
+• Network Device Configuration (Cisco, D-Link, and CTC-Union): Switch, Router, Firewall, VOIP, Wireless Access Point, IP DSLAM, ADSL Modem, Multiplexer, E1 Solution. 
+ 
+• Server Configuration and Troubleshooting. (Intel, HP, DELL, IBM): Implanting, Configuring and Troubleshooting DNS, DHCP, DFS, VPN, NAT in windows Server 2000 and windows Server 2003 Platform. Storage Solution Storage Solution Configure and Troubleshooting (RAID 0, 1, 5, 10, 50). 
+ 
+• Mail server Configure and Troubleshooting: Microsoft Exchange Server 2003 and 2007 Implementing Configuring and Troubleshooting. 
+ 
+• Management and Configure Microsoft System Management Server (SMS). Microsoft Share Point Service. 
+ 
+• Design, Planning, and Documenting: Design Network, Data Centre, Structured Cabling, Planning and Documenting. Optical Fiber Termination. 
+ 
+• Troubleshooting and Servicing Server, Troubleshooting (Hardware and software),PC Troubleshooting, mail systems recover.  
+ 
+Educational Performances: 
+ 
+• Participated two times in Inter Department Programming Contest at PUB. 
+• Third Award in Electrical and Electronics Fair-2004 at PUB. 
+ 
+Practical Experiences in University: 
+• Garments Factory Automation Software (using JDK1.3 & Oracle8i) 
+• Data Communication between Personal Computers using RS-232 standard (using Turbo 
+C) 
+• Information System and Design(Accounts of an organization) 
+ 
+• Design and implementation of 4-bit Arithmetic & Logic Unit (ALU) for 16 instructions. 
+• Design and implementation of Online Traffic Control System. 
+ 
+Research Activities: 
+ 
+I have successfully completed “Data Communication using SMS through GSM Network” 
+as my final thesis supervised by Mr. Asifur Rahman. 
+ 
+Area of Interest: 
+ 
+o Networking and System Solution. 
+ 
+ 
+                                  Education: S.S.C. (10 years): 
+School: Nangalkot A.R Bohumukhi High School. 
+Board: Comilla 
+      Result: First Division with Star Marks. H.S.C. (2 years): 
+ 	College: Comilla Govt. College, Comilla. 
+ 	Board: Comilla. 
+ 	Result: Second Division. 
+B.Sc. in Computer Science and Engineering (4 years): 
+ 	University: The Peoples’ University of Bangladesh, Dhaka. 
+ 	CGPA: 3.59 MBA  
+ 	University: East West University. 
+ 	CGPA: 3.00 
+ 
+                                Personal Profile: Name: Md.Mahatab Hossain.  	Father’s Name: Md. Rafiqual Hossain. 
+ 	Mother’s Name: Mrs. Rashida Akter.  
+ 	Nationality: Bangladeshi 
+ 	Religion: Islam 
+ 	Sex: Male 
+ 	Marital Status: Married 
+ 	Date of Birth: 22 January, 1981 Permanent Address:  
+Village, Post and Thana: Nangalkot, District: Comilla. 
+Mailing Address: 
+254/1/C, 1st Floor, Alimun Garden, Senpara Parbata, Mirpur 10. 
+ 
+Reference: 
+1. Tanveer Ehsanur Rahman 
+ 	 	Director Enterprise Solution Division. Spectrum Engineering Consortium Ltd. 
+ 	 	Technical Director, Novotel Ltd. 
+ 	 	Mobile: 01711563821 ,  Email: tanveer@spectrum-bd.com 
+ 
+2. N.H.M. KHASHRUL MATIN 
+ 	 
+ 	 	Head of IT, Rahimafrooz Bangladesh Ltd 
+Email: khashrul.matin@rahimafrooz.com 
+	Mobile:  	01711594633 
+ 
+ 
+ 
+ 	Date: 27/02/2013 	 	 	 	 	 	      Signature 
+ 
+
+
+ 
+
+
+ 
+
+

@@ -1,0 +1,329 @@
+﻿  
+29, Narinda Road, 
+Dhaka, Bangladesh. 
+Phone:  +88 0171 400 5887
+E-Mail: jossy81@gmail.com 
+   Md. Asif Atick 
+Objective Working with new techniques is my passion. I do like to have challenges to work out. I bring 11 years of software engineering experience involved in a wide range of technologies and techniques. Startup to enterprise, I have planned, designed, managed, and executed all aspects of both product and enterprise life cycle. I have exposure to various industries in my service life and though have multidimensional insight on various industry domain such as Banking/Finance, Telecom, Health, Education, Manufacturing, Government services etc. 
+As an IT Architect I have provided services to numerous customers as well as third party solution vendors in architecting, designing, and implementing the most optimal technical solutions across various stages of from defining high-level architecture, Scaling  to deployment procedures, assisting development groups in the development, and roll-off to production.
+I have worked with customers on their business strategy and best practices to get the best of industry solutions.
+I have been closely involved with different teams to fascinate their development practices, methodology improvement as well as change management process.
+While working with a team I take it as my personal passion to guide and mentor them to reach and achieve the team goal.
+
+Highlights• Superior analytical skills with an ability to understand and abstract both problems and solutions, and to clearly articulate them to stakeholders at all levels and roles. 
+• Strong meeting facilitator. Able to broker and resolve complicated disagreements with diplomacy. 
+• Formal background and experience in all aspects of product and enterprise lifecycle, including industry standard analysis and design methodologies. 
+• Knowledge of proven enterprise and application software patterns and proper application of existing development frameworks.
+• Experience implementing architecture for international standards with multi-jurisdictional regulatory interpretations. 
+• Seasoned software developer with a high proficiency in object oriented design and programming.
+
+Specialties• Machine Learning
+• Natural Language Processing
+• Enterprise Architecture
+• Solution Architecture
+• IT Governance
+• Enterprise Data Mining
+• Data Integration
+• Data capture
+• Service Oriented Architecture
+• Requirement & Design Specifications
+• Process Design and Orchestration 
+• Domain Expertise: Banking/Finance, Health Care,  Telecom, Education, Tourism, Business Process Automation 
+Key Projects ● FitFinder
+A Resume/CV Parser with a complete Application tracking system that helps HR and recruiters to simplify the entire hiring and onboarding process. It uses state of the art Language processing tools to extract pinpoint skill and experience data from candidate profiles. It can match and score candidates based on job posts. The system uses NLP for text parsing and extraction. It is backed by a job profile corpus for classifying and scoring activities. It uses TextBlob and Spacy for text extraction and Word2Vec for analyzing word distance to design scoring classifier
+
+● Docudex Capture 
+o A standalone system to scan documents and upload to different Document management system. It supports TWAIN standards for document scanning and works with any scanner that supports TWAIN API. For interoperability with other DMS system it follows CMIS so that it can upload files to any CMIS supported system such as Alfresko, Docudex, Sharepoint etc. The system leverages OCR, ICR capabilities for data capture. 
+o Windows Presentation Foundation, WCF, TWAIN, CMIS, EF 6, SQL Server 
+● Nomad & Passbook
+o A Prepaid Foreign currency Credit Card system where user can buy and manage their cards through the system. It is a large scale application which serves 2.4 Million users of the bank and able manage huge concurrent transactions. This one system interacts with 5 different systems through it API interface and serves as the one stop solution center for the client. It has a user friendly Single page interface built with AngulerJS which was designed, customer satisfaction keeping in mind.
+o ASP.Net MVC 5, EF 6, ASP.Net Web API and SQL Server, Bootstrap, AngulerJS.
+o Worked as the architect of the system. 
+● Rolloout Controller (ROC)
+o A workflow design and management system for a major telecom company to manage their BTS Rollout process. It helps its users to design workflows on the fly to meet their business process. The system controls the overall rollout process from generating work order to all the way to On-Air a BTS. It has its own workflow routing engine where the user can custom business rules for each workflow routing. The system handles 126 different workflows engaging thousands of stakeholders.
+o Platform: ASP.Net Web Forms, EF, Dynamic Data, Jquery.
+o Role: Solution Architect, Requirement Template implementation , Process Designer, Information Architect 
+● Flyers Go-Direct
+o It’s a flight booking system along with accommodation packages, It provides a hassle free way to find affordable cheap packages for specific destinations. The system has a unique UI which is solely designed keeping in mind tour operator client service manager who might be on a phone call or may be using a tablet at client side.
+o Platform: ASP.Net MVC 3, Entity Framework, Bootstrap, JQuery, Knockout.js
+o Role: Architect, Script Framework, Information Architecture
+● TourPlanners 
+o Another Tour management application with bigger aspects. It combines the features of two Prior product from TCI along with cutting edge web technologies. 
+o Platform : ASP.Net, Ajax,  WFF, Linq   
+o Role : Project Team Lead, UI/UX engineering  
+● Jquery Mobile Quiz Framework
+o A Quiz/Survey framework for mobile devices. It can be used for developing custom quiz/survey applications for any mobile devices.
+o Platform: HTML5, Jquery Mobile, Jquery, Knockout.js.
+● TC Tours 
+o TC Tours is an all-inclusive, web-based, "out-of-the-box" Travel & Tours Management Application Suite that enables online Travel & Tour operators to instantly create and manage multiple tour itineraries with astonishing ease and proficiency. 
+o Platform: ASP.NET, VB.NET, SQL Server. 
+o Role: Development, Coding and Integration of modules. 
+● Tour Track 
+o Tour Track is a web based Tour management tool that enables operators to create and manage tours at ease. It is the immediate next release version of TC Tours with better framework and design. 
+o Platform: ASP.NET, C#.NET, SQL Server. 
+o Role: System Design and Implementation. 
+● VUES 
+o A student management system that manages the records and academics. Faculties can plan course breakdowns, class schedules, provide marks, assign assignments etc. Students can collect grades, notices, follow-up schedules etc through the application. 
+o Platform: ASP.NET, C#.NET, SQL Server. 
+o Role: Development and Integration of modules, Database design.
+● Template Management System 
+o A template management system to build custom reports. It was a add on for an existing application developed by Telophase Inc . 
+o Platform : ASP.Net, Ajax, ASP.NET Custom Controls  
+o Role : Design, Development and Integration of modules. 
+● Up2Date Buying Solution 
+o A cutting edge buying solution to manage the requirements of all level of stakeholder such as buyer, customer and merchandisers assisting them to track order on different stages of production to shipment. 
+o Platform: ASP.NET, C#.NET Win Forms, SQL Server. 
+o Role: System Design and Implementation. 
+  
+  Area of ExpertiesIn-depth knowledge on .Net technologies & Frameworks
+ASP.Net Web Forms
+ASP.Net MVC
+
+Python
+Tensoflow
+OpenCV
+Word2Vec
+
+Natural Language Processing
+Natural Language Extraction
+Data Modelling 
+Data Visualization
+
+Java 
+Java J2EE
+Java Spring Framework 
+
+Ruby on Rails
+
+HTML5
+JavaScript
+Knockout.Js
+AngulerJs
+Jquery and Jquery plug-in/extensions development 
+Jquery Mobile
+
+MS Sql Server
+MySql
+RavenDB
+
+Windows Workflow  Foundation
+Windows Communication  Foundation
+Office add-ons development
+Windows Phone 7/8
+
+ADO.Net
+Linq2SQL
+Entity Framework
+NHibernate
+
+TWAIN
+CMIS
+ICD 10
+LOINC
+SNOMAD
+
+Test Frameworks/Testing
+Design Patterns
+Modular Application Design
+Refactoring Legacy Applications
+
+Specification Specialist
+Application Process Design & Implementation.
+System Design and Implementation
+
+    
+Professional experience 
+
+
+
+
+
+
+
+CEO, Founder
+● Head Blocks
+● June 2011 – Present
+o Work closely with the product team
+o Design and Prepare Classifier Models
+o Design Convolution Layers for CNN
+o Work Closely with the Language modeling Team and help them with RNN/LSTM models
+o Design and define the organization culture
+o Promote innovation culture
+
+Consultant(Solution Architect)
+● Bkash Limited
+● December 2015 – October 2016
+o Managed and lead the core R&D team
+o Contributed in product design and onboarding
+o Information Architecture Design
+o Service API Integration Architecture design
+o Parallel massaging and queuing mechanism design for long pooling bulk process 
+o Designed the Scalable & Failover architecture for the system.
+o Perform threat analysis and risk analysis
+o Designed Security Architecture
+o Implement Change Control framework
+
+Lead Architect
+● CRVS Project, UNDP
+● June 2015 – Present
+o Designed Core architecture .
+o Developed Communication framework for different components.
+o Define common data structures and interoperability standards for other national systems
+o Data integration among 9 distant agency application
+o Service API Integration Architecture design
+o Designed the Scalable & Failover architecture for the system.
+o Perform threat analysis and risk analysis
+o Designed Security Architecture
+o Implement Change Control framework
+
+Solution Architect
+● Berkeley Payment Solutions
+● June 2014 – November 2015
+o Worked as an Architect for their Online Foreign Exchange Credit Card Management System.
+o Data modeling and System Design
+o Information Architecture Design
+o Data integration among 6 distant application
+o Service API Integration Architecture design
+o Designed the Scalable & Failover architecture for the system.
+o Perform threat analysis and risk analysis
+o Designed Security Architecture
+o Implement Change Control framework
+
+Consultant (Architect)
+● Robi Axiata Ltd (On behalf of IDS Ltd)
+● January 2013 – February 2014
+o Worked as an Architect for their In-house Workflow based Rollout Process management system.
+o Worked closely with Project Team to re-engineer their business process.
+o Designed change control framework for work activities
+o Designed claim based authentication system
+o Designed and developed a workflow based loosely coupled, highly configurable Work Process management system.
+o Performed data dependency resolution for inter dependent organization data
+o Deployment Framework design
+o Planning of training materials and training framework
+o Build a template generator to generate work activity forms using Html, JQuery and Bootstrap  
+o Member of Change Control Board
+
+
+Consultant (Training) 
+● Basis 
+● September 2011 – Present
+o Worked as a training consultant and coordinated a specialized course on ASP.Net MVC with most of its applications for Localized technocrats. The Course is designed to transform the existing skills and thought process to work with latest technologies and tools.
+Parts Covered:
+ASP.Net MVC 5 Features
+Code First Approach
+Identity Framework (.Net Security)
+TDD
+Repository Pattern
+Jquery/Templates/Json
+IoC/DI 
+AngulerJS
+
+Consultant Architect
+● 2010 (On behalf of IDS Ltd)
+● Grameen Phone IT. 
+o Analyzed and Designed several modules 
+o Primary responsibilities where to solve critical technical issues (ie. Security, Architecture implementation etc) and develop tools and libraries to increase development speed of the team. Deployment Framework design
+o Planning of training materials and training framework
+o Communication with stakeholders and the developer team.
+o Software Change management
+o Software Configuration management
+o Implemented Scrum for asynchronous development.  
+o Deployment Framework design
+
+ 
+CTO, Co-Founder 
+● 2009 - 2017
+● Prime Tech  
+o Responsible for making all technical decisions. 
+o Responsible for solving critical technical issues and doing RnD's. 
+o Responsible for implementing agile practices such as scrum, TDD etc. 
+Consultant Software Engineer 
+● 2009 
+● Periscope Software Ltd. 
+o Developed a template management system that generates different reports based on templates. 
+o Primary responsibilities include design and implementation of .NET web application and manage module ownership. 
+o Communication with Offshore Clients (Project owners).  
+Consultant Project Manager 
+● 2008 
+● e-Generation Ltd. 
+o Appointed to manage projects as a Project Manager / team lead. 
+o Primary responsibilities include design and implement of .NET projects and manage development team.. 
+o Design and Implemented solutions for Offshore Clients.   
+Technical Lead 
+● 2007 – 2009 
+● Prime Tech 
+o Managed several projects as a team lead. 
+o Primary responsibilities include design and implement of .NET projects such as CMS, CRM, HR etc. 
+o Design and Implemented solutions for divers industries such as tourism, garment and textile, financial service providers etc.   
+Senior Software Engineer 
+● 2005 - 2007 
+● One World & Company Ltd    
+o Performed the responsibilities as a team lead for several projects. 
+o Primary responsibilities include design and development of ASP .NET projects. 
+o Design and Implemented Database infrastructure for Tourism and HRM projects.   
+Web Developer                  
+● 2003  - 2005 
+● zxy apparels buying solution 
+o Worked for redesign of an existing buying solution in .NET framework. 
+o Developed and maintained a Dynamic web site for the company. 
+o Designed and implemented an intranet application to assist Internal messaging for the company employees. 
+  
+DotNet  Programmer 
+● 2002 -2003        
+● American International University Bangladesh  
+o Developed several modules in c# .net. 
+o Designed the internal mailing system for the application.   
+Technical Lead  (Part Time) 
+● 2001-2002              
+● Endeavor Technologies 
+o Designed the web portal “WWW.HOMEBD.COM”. 
+o Planned and developed a search engine in Php/MySql platform. 
+  
+Web Designer (Part Time) 
+● 2000-2001              
+● Bangla 2000 Technologies              . 
+o Designed several client web sites for the company. 
+
+Surplus ● Quick and continuous Learner 
+● Active Listener 
+● Adaptive 
+  Academic M.Sc. in Computer Science 
+• 2014- 2015 
+• American International University Bangladesh. 
+• Major in Intelligent Computer Systems
+• Working on Machine Learning, Neural Networks, Natural Language Processing and  IST data model
+• Thesis : Natural Language Phase Generation Using Image Sequencing Technique.   
+
+ B.Sc. in Computer Science  
+• 2000-2005 
+• American International University Bangladesh. 
+• With GPA 3.49. with a Thesis  “Artificial Intelligent Stand-Alone Navigation System for Automobile” 
+H.S.C 
+● 1997-1999              
+● College of Development Alternative, Dhaka. 
+● Passed H.S.C in First Division. 
+S.S.C 
+● 1996-1997              
+● Narinda Govt: High School, Dhaka. 
+● Passed S.S.C in First Division. 
+  Additional professional activities ● Participated at  ReWork a global AI Summit on Deep Learning at San Francisco, California.
+● Certified CMMI DEV Associate Auditor 
+● Certified Six Sigma BB from QAI India.
+● Member of ITPEC ITEE Question Formulation Comity and attended A 7 Day workshop on Question Formulation at JICA Center, Japan.  
+● Was a JURY thrice at NASA Space app Challenge on Data Science Track. Provided grooming sessions to the participants and worked as mentor for several teams.
+● Was a JURY twice at BASIS Code Warrior Challenge on .Net track. Provided grooming sessions to the participants and worked as mentor for several teams.
+● Attended a day long workshop on Project Management arranged by BDJobs.
+● Attended a 2 day long Workshop on “Business analysis and development process” organized by basis and facilitate by Dr. Shawgota Roy.
+● Attended a 4 day workshop on “TDD & Refactoring” organized by Basis and facilitate by Mr. Naresh Jain. 
+● Achieved MCAD .NET certification from Microsoft Corporation and became chartered member.  
+● Achieved Certified Web Master certification from World Wide Web Institute Geneva, Switzerland.  
+● Completed CCNA Course from NEW HORIZONS Bangladesh. 
+  
+  MOOC Attended● Computing for Data Analysis
+● Machine Learning
+● Health Informatics in the Cloud
+● Functional Programming Principles in Scala
+● Data Management for Clinical Research
+● Introduction to Data Science
+● Natural Language Processing Interests and activities       Reading, computing, Driving, Cycling.  
+  

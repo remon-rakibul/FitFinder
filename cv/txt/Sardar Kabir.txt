@@ -1,0 +1,161 @@
+﻿SARDAR KABIR
+
+Contact Phone & E-mail			Mailing Address
+
+Mobile: +880-1971596672			2/7, Nawab Habibullah Road	                       
+Land:	  +880-2-58610902			Shahabag, Dhaka-1000               
+E-mail:  sardarmd.humayun.kabir@sanofi.com
+
+
+CAREER OBJECTIVE
+
+I have more than 12 years of professional experience in ICT. I am interested to use my analytical and technical knowledge to contribute in this sector and convey personal gratification for the benefit of the society.
+
+
+Summary
+• I have expertise in managing Data Center, DRS (Disaster Recovery Site), IP network design, IP telephony, IT security, IT audit, Firewall & Threat protection, Business Contingency Plan (BCP), Project Manager Role, IT Inventory & procurement, Technical Consultancy and Customer Support Roles.
+• Expertise on ERP solution, Database management, e-Governance, Mobile based application design.
+• Expertise on configuring and managing DNS server, Mail server, Proxy server and Web server.
+• Expertise on configuring and managing Routers, Switches, Firewalls, Content Engines, Wireless Controllers.
+• Expertise on webcast, audio conference and multi-site video conference.
+
+
+PROFESSIONAL EXPERIENCE
+
+1.	Sanofi Bangladesh Ltd.
+       6/2/A, Segun Bagicha, Dhaka
+
+February 2007 – present 
+
+Manager Infrastructure
+
+Key responsibilities:
+(a) Responsible for all infrastructure services including LAN, WAN, Wi-Fi, Data Center, Server Management, VPN, Video Conferencing, Data Security, Data Backup, Patch Deploy, Threat Protection, Active Directory and E-mail Administration.    
+(b) Providing support to ERP system (SAP), e-workflow applications, Mobile based applications
+(c) Managing IT Inventory, IT Projects, IT Operational Management
+(d) Group reporting 
+
+
+2.	DataNet Corporation Ltd.
+     (TouchTone Communications Ltd.)
+	19/2, West Panthapath, Dhaka
+
+January 2002 – April 2004 (2 years and 4 months)
+
+System Administrator, Information Technology
+
+Key responsibilities: 
+(a) Installation, maintenance and troubleshooting of servers (Domain Controller, Mail, Web, Proxy)
+(b) VSAT, Broadband and Radio-link service support.
+(c) Fax-2-Fax, VOIP service support.
+
+
+3.	Applied Computer Technologies Ltd.
+  	23, Eskaton Road, Dhaka
+
+November 2000 – December 2001 (1 year and 2 months)
+
+Network and System Engineer, Project Implementation 
+
+Key responsibilities:
+(a) Design, implementation and troubleshooting of enterprise level Network
+(b) Novell Netware server and client support
+
+
+
+EDUCATION
+Master of Business Administration, (2010)
+INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG
+Bachelor of Computer Science and Engineering, (2003)
+AHSANULLAH UNIVERSITY OF SCIENCE AND TECHNOLOGY
+
+THESIS & PROJECT 
+
+   Graduate level:
+        
+Marketing of Pharmaceutical Industry in Bangladesh: A case study on Sanofi-aventis Bangladesh Ltd., supervised by Professor Dr. Syed Rashedul Hasan, Dhaka University.
+   
+   
+   Undergraduate level:
+
+Design & implementation of High Speed LAN for Bandwidth Maximization as a thesis & project implemented in Islami Bank Bangladesh Ltd. (IBBL tower) under the supervision of Dr. Nazrul Jamil, Director, ACT Ltd.
+
+
+
+TECHNICAL SKILLS
+
+      DOS
+      WINDOWS 9x/NT/2000/XP/2K3/2008
+      NOVELL NETWARE 4.1, 5.1, 6
+      UNIX, LINUX (REDHAT)
+      
+      Pascal, C/C++, Assembly (Intel series), Java, Cgi, Perl, HTML, Lisp, Prolog,  
+      Visual C, Visual Basic, SQL, MS Access, Oracle
+      
+      Hyperion, MS Visual Studio, Dot Net, Front Page
+Microsoft Exchange, SMS, IIS, Office, Projects, CRM, Share Point
+Symantec Endpoint Protection, Firewall, Backup EXEC
+
+CISCO Router, Switch, AVAYA IPT
+Juniper Router, Switch
+HP Proliant DL series
+Polycom audio/video conferencing equipment
+Riverbed packet shaper
+      Quintum Voice Gateway
+      ARUBA Wireless Controller and Access Point
+
+
+ACCOMPLISHMENTS
+
+(a) Successfully completed Lean workshop of Value Stream Mapping on Procurement to Pay process (2015)
+(b) Participant of ITC IS Seminar in Paris, France (2014)
+(c) Certification on Project Management course under IBA, DU (2012)
+(d) Participant of EVOLVE (individual development program) in Vietnam (2011) as part of Sanofi Bangladesh talent management. 
+(e) Successfully completed workshop on “Preparing Today for Tomorrow’s Opportunities” conducted by Sanofi-aventis Bangladesh Ltd. (2007)
+(f) Participant of International Conference on Wireless Access Technology in Kuala Lumpur, Malaysia (2004)
+
+
+
+
+
+EXTRACURRICULAR ACTIVITIES
+
+(a) HSE (Health, Safety and Environment) coordinator of sanofi Bangladesh Ltd. 
+(b) Member of Sanofi Bangladesh HR assessment center.
+(c) Member of Sanofi Bangladesh BCP management committee.
+(d) Alumni member of BSDG (Bangladesh Strategic Development Group), Sanofi Bangladesh Ltd. 
+
+
+PERSONAL DETAILS
+
+Full Name		:	Sardar Md. Humayun Kabir
+Date of Birth		:	June 1st, 1978
+National ID No	:	2697557398142
+Nationality		:	Bangladesh
+Religion		:	Islam
+Sex			:	Male
+Marital Status	:	Married
+Blood Gr		:	O+		
+
+
+REFERENCES 
+
+1. Abu Sufian 
+    Chief Information Officer (CIO)
+    Information Solutions
+    Sanofi Bangladesh Ltd.
+    Mobile: 01919590346
+
+2. Major Mesbah-ul-Islam
+    Bangladesh National Cadet Core (BNCC)
+    Mobile: 01713095227
+ 
+Page 1 of 4
+
+
+
+
+
+1
+
+
